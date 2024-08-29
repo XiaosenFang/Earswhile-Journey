@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mm:block/basic_gas_port_input"
+    }
+  }
+}

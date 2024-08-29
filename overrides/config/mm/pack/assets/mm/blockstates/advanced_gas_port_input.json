@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mm:block/advanced_gas_port_input"
+    }
+  }
+}

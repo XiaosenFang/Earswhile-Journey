@@ -1,0 +1,10 @@
+{
+    "id": "ultimate_item_port",
+    "controllerIds": "mm:controller_a",
+    "name": "ULtimate Item Port",
+    "type": "mm:item",
+    "config": {
+        "rows": 5,
+        "columns": 9
+    }
+}

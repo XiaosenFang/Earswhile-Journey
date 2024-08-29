@@ -1,0 +1,5 @@
+{
+    "type": "mm:machine",
+    "id": "basic_controller",
+    "name": "Machine Controller"
+}
