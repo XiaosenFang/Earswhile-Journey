@@ -1,9 +1,0 @@
-{
-    "id": "basic_kinetic_port",
-    "controllerIds": "mm:controller_a",
-    "name": "Basic Create Kinetic",
-    "type": "mm:create/kinetic",
-    "config": {
-      "stress": 4
-    }
-  }
