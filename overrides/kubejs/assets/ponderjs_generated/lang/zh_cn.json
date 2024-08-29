@@ -1,0 +1,7 @@
+{
+  "kubejs.ponder.precision_assembly_machine.header": "精密组装机 ",
+  "kubejs.ponder.precision_assembly_machine.text_1": "无需绑定任何输入或输出",
+  "kubejs.ponder.starlight_infuser.header": "星能聚合器 ",
+  "kubejs.ponder.starlight_infuser.text_1": "此处流体为可选",
+  "kubejs.ponder.starlight_infuser.text_2": "此处端口可替换为任意端口"
+}

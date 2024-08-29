@@ -1,0 +1,22 @@
+{
+    "quest.nothing":"无事发生",
+
+    "quest.main.welcome":"欢迎",
+    "quest.main.road":"发展路线",
+    "quest.main.shop":"商店",
+    "quest.main.ch1":"第一章",
+    "quest.main.ch2":"第二章",
+    "quest.main.ch3":"第三章",
+
+    "quest.wel.wel.title":"欢迎",
+    "quest.wel.wel.main":"",
+    "quest.wel.quest.title":"任务",
+    "quest.wel.quest.main1":"任务中菱形标志为一章的开始，正方形为一章的结束。",
+    "quest.wel.quest.main2":"在一章的任务中，有可能会有多个开始与多个结束点。",
+    "quest.wel.blueprint.main":"整合包内置了部分结构蓝图，欢迎使用",
+    "quest.wel.blueprint.title":"蓝图",
+    "quest.wel.writer.title":"作者",
+    "quest.wel.writer.main":"作者：Xiao_senfang. 您可以在mcmod.cn@枫桦灰桥 或bilibili@森林防护 联系我",
+
+    "quest.shop.soul_gem":"灵魂宝石"
+}

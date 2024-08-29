@@ -1,0 +1,22 @@
+{
+    "quest.nothing":"Nothing happened",
+
+    "quest.main.welcome":"Welcome",
+    "quest.main.road":"Road",
+    "quest.main.shop":"Shop",
+    "quest.main.ch1":"Chaptor 1",
+    "quest.main.ch2":"Chaptor 2",
+    "quest.main.ch3":"Chaptor 3",
+
+    "quest.wel.wel.title":"Welcome",
+    "quest.wel.wel.main":"",
+    "quest.wel.quest.title":"Quest",
+    "quest.wel.quest.main1":"The diamond symbol in the task marks the beginning of a chapter, and the square represents the end of a chapter.",
+    "quest.wel.quest.main2":"In a chapter's task, there may be multiple starting and ending points.",
+    "quest.wel.blueprint.main":"The modpack contains some structural blueprints, welcome to use",
+    "quest.wel.blueprint.title":"Blueprint",
+    "quest.wel.writer.title":"About Writer",
+    "quest.wel.writer.main":"The writer is Xiao_senfang. You can content me in mcmod.cn @枫桦灰桥 or bilibili @森林防护",
+
+    "quest.shop.soul_gem":"Soul Gem"
+}
