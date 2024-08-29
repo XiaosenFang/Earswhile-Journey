@@ -1,0 +1,18 @@
+{
+    "type": "ae2:inscriber",
+    "ingredients": {
+      "bottom": {
+        "item": "ae2:printed_silicon"
+      },
+      "middle": {
+        "item": "minecraft:redstone"
+      },
+      "top": {
+        "item": "kubejs:printed_redstone_processor"
+      }
+    },
+    "mode": "press",
+    "result": {
+      "item": "kubejs:redstone_processor"
+    }
+  }

@@ -1,0 +1,12 @@
+{
+    "type": "pneumaticcraft:assembly_drill",
+    "input": {
+      "count": 1,
+      "item": "thermal:cured_rubber"
+    },
+    "program": "drill",
+    "result": {
+      "count": 1,
+      "item": "kubejs:sealing_ring"
+    }
+  }

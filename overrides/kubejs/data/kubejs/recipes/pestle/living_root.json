@@ -1,0 +1,25 @@
+{
+    "type": "hexerei:pestle_and_mortar",
+    "ingredients": [
+      {
+        "item": "hexerei:mindful_trance_blend"
+      },
+      {
+        "item": "twilightforest:liveroot"
+      },
+      {
+        "item": "hexerei:dried_sage_bundle"
+      },
+      {
+        "item": "twilightforest:liveroot"
+      },   
+      {
+        "item": "hexerei:mindful_trance_blend"
+      }
+    ],
+    "output": {
+      "item": "botania:living_root",
+      "count": 1
+    },
+    "grindingTime": 300
+  }

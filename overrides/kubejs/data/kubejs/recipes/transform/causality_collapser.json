@@ -1,0 +1,39 @@
+{
+    "type": "hexerei:mixingcauldron",
+    "liquid": {
+        "fluid": "minecraft:water"
+    },
+    "ingredients": [
+        {
+            "item": "hexerei:herb_enhanced_broom_brush"
+        },
+        {
+            "item": "hexerei:mindful_trance_blend"
+        },
+        {
+            "item": "naturesaura:token_joy"
+        },
+        {
+            "item": "naturesaura:token_fear"
+        },
+        {
+            "item": "minecraft:redstone"
+        },
+        {
+            "item": "naturesaura:token_anger"
+        },
+        {
+            "item": "naturesaura:token_sorrow"
+        },
+        {
+            "item": "hexerei:mindful_trance_blend"
+        }
+    ],
+    "output": {
+        "item": "kubejs:causality_collapser"
+    },
+    "liquidOutput": {
+        "fluid": "minecraft:water"
+    },
+    "fluidLevelsConsumed": 1000
+}

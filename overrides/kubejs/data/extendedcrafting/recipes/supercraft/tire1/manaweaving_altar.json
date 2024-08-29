@@ -1,0 +1,28 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+      "ABA",
+      "CDC",
+      "CEC"
+    ],
+    "key": {
+      "A": {
+        "item": "ars_nouveau:arcane_platform"
+      },
+      "B": {
+        "item": "mna:decoration/arcane_stone"
+      },
+      "C": {
+        "item": "mna:decoration/arcane_sandstone_wall"
+      },
+      "D": {
+        "item": "minecraft:water_bucket"
+      },
+      "E": {
+        "item": "mna:runeforge"
+      }
+    },
+    "result": {
+      "item": "mna:manaweaving_altar"
+    }
+  }

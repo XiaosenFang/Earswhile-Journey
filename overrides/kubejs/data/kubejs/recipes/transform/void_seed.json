@@ -1,0 +1,18 @@
+{
+    "type": "ae2:transform",
+    "circumstance": {
+      "type": "explosion"
+    },
+    "ingredients": [
+      {
+        "item": "mna:mote_ender"
+      },
+      {
+        "item": "kubejs:causality_collapser"
+      }
+    ],
+    "result": {
+      "count": 1,
+      "item": "kubejs:void_seed"
+    }
+  }
