@@ -1,0 +1,11 @@
+{
+    "id": "ultimate_energy_port",
+    "controllerIds": "mm:controller_a",
+    "name": "ULtimate Energy Port",
+    "type": "mm:energy",
+    "config": {
+      "capacity": 10000000,
+      "maxReceive": 1000000,
+      "maxExtract": 1000000
+    }
+  }

@@ -1,0 +1,887 @@
+{
+	id: "33769648AFCE36DC"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ count: 16, item: "minecraft:oak_log" }
+		{ item: "thermal:steel_block" }
+		{ count: 8, item: "minecraft:dragon_breath" }
+		{ count: 2, item: "apotheosis:infused_breath" }
+		{ count: 2, item: "minecraft:diamond_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:diamond", weight: 4.0f }
+		{ count: 4, item: "minecraft:netherite_ingot" }
+		{ count: 2, item: "thermal:nickel_block", weight: 2.0f }
+		{ count: 8, item: "thermal:nickel_ingot", weight: 4.0f }
+		{
+			type: "xp"
+			weight: 4.0f
+			xp: 100
+		}
+		{
+			type: "xp_levels"
+			weight: 2.0f
+			xp_levels: 2
+		}
+		{ count: 2, item: "minecraft:gold_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:gold_ingot", weight: 4.0f }
+		{ count: 2, item: "minecraft:iron_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:iron_ingot", weight: 4.0f }
+		{ count: 2, item: "minecraft:redstone_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:redstone", weight: 4.0f }
+		{ item: "mekanism:ultimate_energy_cube" }
+		{ item: "mekanism:basic_energy_cube" }
+		{ count: 16, item: "ae2:fluix_glass_cable" }
+		{ count: 16, item: "ae2:fluix_smart_cable" }
+		{ count: 16, item: "ae2:fluix_smart_dense_cable" }
+		{ count: 8, item: "thermal:steel_ingot" }
+		{ count: 16, item: "minecraft:amethyst_shard", weight: 4.0f }
+		{ count: 16, item: "ae2:certus_quartz_crystal", weight: 4.0f }
+		{ count: 16, item: "ae2:charged_certus_quartz_crystal" }
+		{ count: 16, item: "ae2:fluix_crystal" }
+		{ count: 2, item: "minecraft:copper_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:copper_ingot", weight: 4.0f }
+		{ count: 2, item: "minecraft:enchanted_golden_apple" }
+		{ count: 2, item: "minecraft:golden_apple" }
+		{ item: "torchmaster:megatorch" }
+		{ count: 2, item: "apotheosis:sightshelf_t2" }
+		{ count: 8, item: "pneumaticcraft:advanced_pressure_tube" }
+		{ count: 3, item: "pneumaticcraft:security_upgrade" }
+		{ count: 12, item: "pneumaticcraft:speed_upgrade" }
+		{ count: 8, item: "mekanism:upgrade_speed" }
+		{ count: 8, item: "mekanism:upgrade_energy" }
+		{ count: 16, item: "ae2:speed_card" }
+		{
+			item: {
+				Count: 1
+				id: "thermal:rf_potato"
+				tag: { }
+			}
+		}
+		{ count: 8, item: "forbidden_arcanus:nipa" }
+		{ item: "thermalendergy:endergy_upgrade_3" }
+		{ item: "thermal:upgrade_augment_3" }
+		{ item: "thermal_extra:upgrade_augment" }
+		{ item: "thermal:upgrade_augment_2" }
+		{ item: "thermal:upgrade_augment_1" }
+		{
+			item: {
+				Count: 1
+				id: "ae2things:disk_drive_256k"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "ae2things:disk_drive_4k"
+				tag: { }
+			}
+		}
+		{ item: "pipez:infinity_upgrade" }
+		{ count: 16, item: "ae2:logic_processor" }
+		{ count: 16, item: "ae2:calculation_processor" }
+		{ count: 16, item: "ae2:engineering_processor" }
+		{ count: 16, item: "appflux:energy_processor" }
+		{ count: 16, item: "megacells:accumulation_processor" }
+		{ count: 8, item: "minecraft:netherite_upgrade_smithing_template" }
+		{ count: 2, item: "minecraft:lapis_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:lapis_lazuli", weight: 4.0f }
+		{ count: 2, item: "minecraft:emerald_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:emerald", weight: 4.0f }
+		{ count: 2, item: "botanypots:terracotta_hopper_botany_pot" }
+		{ item: "botania:brewery" }
+		{ item: "ars_nouveau:ritual_brazier" }
+		{ item: "minecraft:crafting_table", weight: 2.0f }
+		{ item: "create:basin" }
+		{ count: 2, item: "thermal:gunpowder_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:gunpowder", weight: 4.0f }
+		{ count: 16, item: "pipez:universal_pipe" }
+		{ count: 16, item: "pipez:gas_pipe" }
+		{ count: 16, item: "pipez:energy_pipe" }
+		{ count: 16, item: "pipez:fluid_pipe" }
+		{ count: 16, item: "pipez:item_pipe" }
+		{ count: 16, item: "mekanism:basic_universal_cable" }
+		{ count: 16, item: "mekanism:advanced_universal_cable" }
+		{ count: 8, item: "mekanism:elite_universal_cable" }
+		{ count: 8, item: "mekanism:ultimate_universal_cable" }
+		{ item: "modularrouters:modular_router" }
+		{ count: 4, item: "draconicevolution:draconium_block" }
+		{ item: "draconicevolution:awakened_draconium_block" }
+		{ count: 2, item: "immersiveengineering:storage_aluminum", weight: 2.0f }
+		{ count: 8, item: "immersiveengineering:ingot_aluminum", weight: 4.0f }
+		{ count: 2, item: "create:zinc_block", weight: 2.0f }
+		{ count: 8, item: "create:zinc_ingot", weight: 4.0f }
+		{ count: 8, item: "mekanism:upgrade_muffling" }
+		{ item: "pipez:ultimate_upgrade" }
+		{ count: 2, item: "pipez:advanced_upgrade" }
+		{ count: 4, item: "pipez:improved_upgrade" }
+		{ count: 8, item: "pipez:basic_upgrade" }
+		{ count: 2, item: "thermal:machine_efficiency_augment" }
+		{ item: "thermal:machine_cycle_augment" }
+		{ count: 4, item: "functionalstorage:copper_upgrade" }
+		{ count: 4, item: "functionalstorage:gold_upgrade" }
+		{ count: 4, item: "functionalstorage:diamond_upgrade" }
+		{ count: 4, item: "functionalstorage:netherite_upgrade" }
+		{ count: 4, item: "modularrouters:speed_upgrade" }
+		{ count: 4, item: "modularrouters:stack_upgrade" }
+		{ count: 2, item: "minecraft:nether_star" }
+		{ count: 2, item: "minecraft:quartz_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:quartz", weight: 4.0f }
+		{ count: 2, item: "minecraft:glowstone", weight: 2.0f }
+		{ count: 8, item: "minecraft:glowstone_dust", weight: 4.0f }
+		{ count: 16, item: "farmersdelight:apple_pie" }
+		{ count: 16, item: "farmersdelight:sweet_berry_cheesecake" }
+		{ count: 16, item: "farmersdelight:chocolate_pie" }
+		{ count: 4, item: "minecraft:bucket" }
+		{ count: 4, item: "minecraft:barrel" }
+		{ item: "mekanism:personal_barrel" }
+		{ count: 8, item: "create:chute" }
+		{ count: 4, item: "create:smart_chute" }
+		{ count: 8, item: "minecraft:hopper" }
+		{ count: 4, item: "pneumaticcraft:omnidirectional_hopper" }
+		{ count: 8, item: "create:andesite_funnel" }
+		{ count: 4, item: "create:brass_funnel" }
+		{ count: 4, item: "botania:solegnolia" }
+		{ count: 4, item: "botania:floating_solegnolia" }
+		{ count: 16, item: "minecraft:andesite", weight: 4.0f }
+		{ count: 8, item: "create:andesite_alloy" }
+		{ count: 2, item: "create:andesite_alloy_block" }
+		{ count: 16, item: "nethersdelight:grilled_strider" }
+		{ count: 16, item: "nethersdelight:strider_moss_stew" }
+		{ count: 16, item: "oceansdelight:guardian_soup" }
+		{ count: 16, item: "oceansdelight:seagrass_salad" }
+		{ count: 16, item: "oceansdelight:cooked_stuffed_cod" }
+		{ count: 16, item: "farmersdelight:fruit_salad" }
+		{ count: 16, item: "delightful:deluxe_cheeseburger" }
+		{ count: 16, item: "delightful:roasted_acorn" }
+		{ count: 16, item: "delightful:stuffed_cantaloupe" }
+		{ count: 16, item: "nethersdelight:stuffed_hoglin" }
+		{ count: 16, item: "delightful:cheeseburger" }
+		{ count: 16, item: "delightful:source_berry_pie_slice" }
+		{ count: 16, item: "delightful:nut_butter_and_jelly_sandwich" }
+		{ count: 4, item: "minecraft:cake" }
+		{ count: 16, item: "create:blaze_cake" }
+		{ count: 16, item: "farmersdelight:cake_slice" }
+		{ count: 4, item: "thermal:carrot_cake" }
+		{ count: 4, item: "thermal:chocolate_cake" }
+		{ count: 4, item: "createaddition:chocolate_cake" }
+		{ count: 4, item: "createaddition:honey_cake" }
+		{ item: "thermal:device_collector" }
+		{ item: "mekaweapons:mekatana" }
+		{ item: "mekaweapons:mekabow" }
+		{
+			item: {
+				Count: 1
+				id: "constructionwand:infinity_wand"
+				tag: {
+					wand_options: { }
+				}
+			}
+		}
+		{ item: "waystones:waystone", weight: 2.0f }
+		{ item: "powah:energy_cell_nitro" }
+		{ item: "powah:energy_cell_starter" }
+		{ count: 8, item: "quark:ancient_fruit" }
+		{ count: 16, item: "minecraft:potato" }
+		{ count: 16, item: "minecraft:baked_potato" }
+		{ count: 16, item: "farmersdelight:stuffed_potato" }
+		{ count: 16, item: "minecraft:golden_carrot" }
+		{ count: 16, item: "thermal:radish" }
+		{ count: 16, item: "minecraft:carrot" }
+		{ count: 16, item: "minecraft:wheat" }
+		{ count: 16, item: "minecraft:bread" }
+		{ count: 16, item: "pneumaticcraft:sourdough_bread" }
+		{ count: 16, item: "delightful:cantaloupe_bread" }
+		{ count: 16, item: "minecraft:cooked_beef" }
+		{ count: 16, item: "blue_skies:cooked_carabeef" }
+		{ count: 16, item: "farmersdelight:steak_and_potatoes" }
+		{ item: "botania:tiny_potato" }
+		{
+			item: {
+				Count: 1
+				id: "enderio:electromagnet"
+				tag: {
+					Energy: {
+						EnergyStored: 0
+						MaxEnergyStored: 100000
+						MaxEnergyUse: 100000
+					}
+				}
+			}
+		}
+		{ item: "mekanism:meka_tool" }
+		{ item: "mekanism:mekasuit_helmet" }
+		{ item: "mekanism:mekasuit_bodyarmor" }
+		{ item: "mekanism:mekasuit_pants" }
+		{ item: "mekanism:mekasuit_boots" }
+		{ item: "embers:music_disc_7f_patterns" }
+		{ item: "minecraft:music_disc_13" }
+		{ item: "minecraft:music_disc_pigstep" }
+		{ item: "minecraft:jukebox" }
+		{ count: 16, item: "minecraft:glass", weight: 8.0f }
+		{ count: 16, item: "minecraft:glass_pane", weight: 4.0f }
+		{ item: "create_connected:music_disc_elevator" }
+		{ item: "ae2:controller" }
+		{ item: "fluxnetworks:flux_controller" }
+		{
+			item: {
+				Count: 1
+				id: "appflux:fe_256k_cell"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "appflux:fe_4k_cell"
+				tag: { }
+			}
+		}
+		{ item: "ae2:cell_component_256k" }
+		{ item: "ae2:256k_crafting_storage" }
+		{
+			item: {
+				Count: 1
+				id: "arseng:source_storage_cell_4k"
+				tag: { }
+			}
+		}
+		{ count: 16, item: "minecraft:oak_planks", weight: 8.0f }
+		{ count: 16, item: "minecraft:stick", weight: 8.0f }
+		{ count: 16, item: "immersiveengineering:stick_treated" }
+		{ count: 16, item: "immersiveengineering:treated_wood_horizontal" }
+		{ item: "mekanism:basic_fluid_tank" }
+		{ item: "mekanism:ultimate_fluid_tank" }
+		{ item: "mekanism:basic_chemical_tank" }
+		{ item: "mekanism:ultimate_chemical_tank" }
+		{ item: "pneumaticcraft:huge_tank" }
+		{ item: "pneumaticcraft:small_tank" }
+		{ item: "create:fluid_tank", weight: 2.0f }
+		{ item: "mob_grinding_utils:tank_sink" }
+		{
+			item: {
+				Count: 1
+				id: "thermal:energy_cell"
+				tag: {
+					BlockEntityTag: {
+						Energy: 0
+						EnergyMax: 1000000
+						EnergyRecv: 1000
+						EnergySend: 1000
+					}
+				}
+			}
+			weight: 4.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "thermal:fluid_cell"
+				tag: {
+					BlockEntityTag: {
+						TankInv: [{
+							Amount: 0
+							Capacity: 32000
+							FluidName: "minecraft:empty"
+							Tank: 0b
+						}]
+					}
+				}
+			}
+			weight: 4.0f
+		}
+		{ item: "rftoolspower:dimensionalcell", weight: 2.0f }
+		{ item: "rftoolspower:dimensionalcell_advanced", weight: 2.0f }
+		{ item: "fluxnetworks:flux_plug" }
+		{ item: "fluxnetworks:flux_point" }
+		{ count: 2, item: "ars_nouveau:source_jar" }
+		{ count: 16, item: "twilightforest:meef_stroganoff" }
+		{ count: 16, item: "twilightforest:cooked_meef" }
+		{ count: 16, item: "farmersdelight:beef_patty" }
+		{ count: 16, item: "farmersdelight:beef_stew" }
+		{ count: 8, item: "minecraft:leather" }
+		{ count: 8, item: "immersiveengineering:ersatz_leather" }
+		{ count: 8, item: "thermal:servo_attachment" }
+		{ count: 8, item: "thermal:turbo_servo_attachment" }
+		{ item: "minecraft:milk_bucket" }
+		{ item: "cookingforblockheads:milk_jar" }
+		{ count: 16, item: "delightful:salmonberry_milkshake" }
+		{ count: 16, item: "thermal:cheese_wedge" }
+		{ count: 16, item: "farmersdelight:glow_berry_custard" }
+		{ count: 16, item: "delightful:matcha_milkshake" }
+		{ count: 16, item: "create:builders_tea" }
+		{ count: 16, item: "delightful:matcha_ice_cream" }
+		{ count: 16, item: "delightful:matcha_gummy" }
+		{ count: 16, item: "mekanism:basic_mechanical_pipe" }
+		{ count: 16, item: "mekanism:ultimate_mechanical_pipe" }
+		{ count: 16, item: "mekanism:basic_pressurized_tube" }
+		{ count: 16, item: "mekanism:ultimate_pressurized_tube" }
+		{ count: 16, item: "mekanism:basic_logistical_transporter" }
+		{ count: 16, item: "mekanism:ultimate_logistical_transporter" }
+		{
+			item: {
+				Count: 1
+				id: "appmek:chemical_storage_cell_4k"
+				tag: { }
+			}
+		}
+		{ count: 8, item: "thermal:obsidian_glass" }
+		{ count: 8, item: "enderio:clear_glass" }
+		{ item: "immersiveengineering:cloche" }
+		{
+			item: {
+				Count: 1
+				id: "ae2:item_storage_cell_4k"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "ae2:item_storage_cell_256k"
+				tag: { }
+			}
+		}
+		{ count: 4, item: "ae2:crafting_unit" }
+		{ count: 2, item: "ae2:pattern_provider" }
+		{ count: 4, item: "ae2:blank_pattern" }
+		{ count: 2, item: "ae2:interface" }
+		{ count: 2, item: "megacells:mega_crafting_accelerator" }
+		{ count: 2, item: "expatternprovider:wireless_connect" }
+		{ item: "mekanism:quantum_entangloporter" }
+		{ item: "ae2wtlib:quantum_bridge_card" }
+		{ count: 2, item: "create:redstone_link" }
+		{ item: "ae2:wireless_access_point" }
+		{ item: "create:linked_controller" }
+		{ count: 8, item: "minecraft:tnt" }
+		{ count: 8, item: "ae2:tiny_tnt" }
+		{
+			count: 4
+			item: {
+				Count: 1
+				id: "immersiveengineering:balloon"
+				tag: { }
+			}
+		}
+		{ count: 4, item: "mekanismadditions:white_balloon" }
+		{ count: 4, item: "immersiveengineering:connector_hv_relay" }
+		{ count: 4, item: "immersiveengineering:connector_hv" }
+		{ count: 16, item: "immersiveengineering:wirecoil_steel" }
+		{ item: "immersiveengineering:capacitor_hv" }
+		{ item: "immersiveengineering:capacitor_lv" }
+		{ item: "immersiveengineering:capacitor_mv" }
+		{
+			item: {
+				Count: 1
+				id: "integrateddynamics:energy_battery"
+				tag: {
+					energy: 0
+				}
+			}
+		}
+		{ count: 16, item: "minecraft:white_wool", weight: 6.0f }
+		{ count: 16, item: "minecraft:string", weight: 6.0f }
+		{ item: "thermal:tinker_bench" }
+		{ item: "cookingforblockheads:sink" }
+		{ item: "thermal:device_water_gen" }
+		{ count: 2, item: "enderstorage:ender_tank" }
+		{ count: 2, item: "enderstorage:ender_chest" }
+		{ count: 4, item: "minecraft:chest", weight: 4.0f }
+		{ item: "mekanism:personal_chest" }
+		{ item: "mekanism:robit" }
+		{ count: 8, item: "appflux:charged_redstone" }
+		{ count: 8, item: "immersiveengineering:component_electronic" }
+		{ count: 8, item: "immersiveengineering:component_electronic_adv" }
+		{ count: 8, item: "create:electron_tube" }
+		{ item: "ae2:mysterious_cube" }
+		{ count: 16, item: "minecraft:netherite_scrap" }
+		{ item: "mekanism:pigment_mixer" }
+		{ item: "draconicevolution:small_chaos_frag" }
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						energy: {
+							energy: 0
+						}
+						module_host: {
+							modules: [ ]
+							properties: { }
+							provider_id: [I;
+								-2113948907
+								-616610196
+								-1100449261
+								-1308810248
+							]
+						}
+					}
+				}
+				id: "draconicevolution:wyvern_chestpiece"
+			}
+		}
+		{ count: 16, item: "minecraft:oak_slab", weight: 2.0f }
+		{ count: 16, item: "minecraft:stripped_oak_wood", weight: 2.0f }
+		{ count: 16, item: "minecraft:oak_wood", weight: 2.0f }
+		{ count: 4, item: "immersiveengineering:electric_lantern" }
+		{ item: "mekanismgenerators:heat_generator" }
+		{ item: "mekanismgenerators:solar_generator" }
+		{ item: "mekanismgenerators:advanced_solar_generator" }
+		{ item: "mekanismgenerators:wind_generator" }
+		{ item: "immersiveengineering:thermoelectric_generator" }
+		{ item: "immersiveengineering:dynamo" }
+		{ item: "enderio:stirling_generator" }
+		{ count: 4, item: "twilightforest:fiery_blood" }
+		{ item: "bloodmagic:weak_tau", weight: 2.0f }
+		{ item: "bloodmagic:strong_tau", weight: 2.0f }
+		{ count: 16, item: "delightful:salmonberry_pie" }
+		{ item: "mekanism:fuelwood_heater" }
+		{ item: "botania:floating_entropinnyum" }
+		{ count: 8, item: "pneumaticcraft:heat_sink" }
+		{ item: "pneumaticcraft:heat_frame" }
+		{ item: "mekanism:modification_station" }
+		{ count: 8, item: "immersiveengineering:windmill_sail" }
+		{ count: 16, item: "minecraft:blaze_rod", weight: 3.0f }
+		{ item: "mekanism:atomic_disassembler", only_one: true, weight: 1.5f }
+		{ count: 2, item: "sophisticatedstorage:stack_upgrade_tier_4" }
+		{ count: 2, item: "sophisticatedstorage:stack_upgrade_tier_3" }
+		{ count: 2, item: "sophisticatedstorage:stack_upgrade_tier_2" }
+		{ count: 2, item: "sophisticatedstorage:stack_upgrade_tier_1_plus" }
+		{ count: 2, item: "sophisticatedstorage:stack_upgrade_tier_1" }
+		{
+			count: 2
+			item: {
+				Count: 1
+				id: "sophisticatedstorage:netherite_barrel"
+				tag: {
+					woodType: "oak"
+				}
+			}
+		}
+		{ count: 8, item: "modularrouters:blank_module" }
+		{ count: 2, item: "functionalstorage:ender_drawer" }
+		{ item: "ae2:entropy_manipulator" }
+		{
+			item: {
+				Count: 1
+				id: "ae2:color_applicator"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "ae2:matter_cannon"
+				tag: { }
+			}
+		}
+		{ count: 2, item: "ae2:quantum_link" }
+		{ count: 16, item: "ae2:quantum_ring" }
+		{ count: 16, item: "minecraft:apple" }
+		{ item: "minecraft:minecart" }
+		{ item: "botania:magnet_ring" }
+		{ item: "minecraft:spawner" }
+		{ item: "draconicevolution:draconium_chest" }
+		{ item: "minecraft:totem_of_undying" }
+		{ item: "minecraft:dragon_egg" }
+		{ item: "minecraft:echo_shard" }
+		{ item: "minecraft:writable_book" }
+		{ count: 8, item: "minecraft:book" }
+		{
+			item: {
+				Count: 1
+				id: "occultism:soul_gem"
+				tag: { }
+			}
+		}
+		{ count: 16, item: "minecraft:soul_sand" }
+		{ count: 16, item: "minecraft:soul_soil" }
+		{
+			item: {
+				Count: 1
+				id: "tiab:time_in_a_bottle"
+				tag: { }
+			}
+			only_one: true
+		}
+		{ item: "industrialforegoing:hydroponic_bed" }
+		{
+			item: {
+				Count: 1
+				id: "mekanism:jetpack"
+				tag: {
+					mekData: {
+						GasTanks: [{
+							Tank: 0b
+							stored: {
+								amount: 24000L
+								gasName: "mekanism:hydrogen"
+							}
+						}]
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "mekanism:jetpack_armored"
+				tag: {
+					mekData: {
+						GasTanks: [{
+							Tank: 0b
+							stored: {
+								amount: 24000L
+								gasName: "mekanism:hydrogen"
+							}
+						}]
+					}
+				}
+			}
+		}
+		{ item: "mekanism:module_gravitational_modulating_unit" }
+		{ item: "hostilenetworks:loot_fabricator" }
+		{ count: 16, item: "connectedglass:clear_glass" }
+		{ item: "botania:mana_fluxfield" }
+		{ item: "botania:gaia_spreader" }
+		{ item: "minecraft:beacon" }
+		{
+			item: {
+				Count: 1
+				id: "immersiveengineering:graphite_electrode"
+				tag: {
+					graphDmg: 0
+				}
+			}
+		}
+		{ count: 64, item: "bloodmagic:simplekey" }
+		{ count: 16, item: "bloodmagic:hellforgedparts" }
+		{ count: 4, item: "pneumaticcraft:vortex_tube" }
+		{ item: "torchmaster:feral_flare_lantern" }
+		{
+			item: {
+				Count: 1
+				id: "expatternprovider:infinity_cell"
+				tag: {
+					record: {
+						"#c": "ae2:f"
+						id: "minecraft:water"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "expatternprovider:infinity_cell"
+				tag: {
+					record: {
+						"#c": "ae2:i"
+						id: "minecraft:cobblestone"
+					}
+				}
+			}
+		}
+		{ count: 8, item: "botania:spark" }
+		{ item: "botania:spark_upgrade_dominant" }
+		{ item: "botania:spark_upgrade_recessive" }
+		{ count: 8, item: "minecraft:honey_block" }
+		{ item: "mob_grinding_utils:mob_swab" }
+		{ item: "aeinfinitybooster:dimension_card" }
+		{ item: "immersiveengineering:tesla_coil" }
+		{ item: "rftoolsbuilder:builder" }
+		{
+			item: {
+				Count: 1
+				id: "twilightforest:ore_magnet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						Items: [ ]
+						Size: 3
+					}
+				}
+				id: "immersiveengineering:railgun"
+			}
+		}
+		{ count: 16, item: "delightful:smore" }
+		{ item: "minecraft:oak_chest_boat" }
+		{ item: "minecraft:oak_boat" }
+		{ item: "create:windmill_bearing" }
+		{ item: "immersiveengineering:windmill" }
+		{ item: "immersiveengineering:watermill" }
+		{ item: "create:water_wheel" }
+		{ item: "create:large_water_wheel" }
+		{ count: 64, item: "create:white_sail" }
+		{ item: "mekanism:logistical_sorter" }
+		{ item: "extendedcrafting:handheld_table" }
+		{ item: "createaddition:electric_motor" }
+		{ count: 8, item: "apotheosis:warden_tendril" }
+		{ item: "ars_nouveau:rotating_spell_turret" }
+		{ item: "ars_nouveau:basic_spell_turret" }
+		{ count: 8, item: "botania:corporea_spark" }
+		{ item: "create:steam_engine" }
+		{ count: 4, item: "create:blaze_burner" }
+		{ count: 4, item: "create:empty_blaze_burner" }
+		{ count: 16, item: "minecraft:blaze_powder", weight: 5.0f }
+		{ item: "trashcans:energy_trash_can" }
+		{ item: "trashcans:item_trash_can" }
+		{ item: "trashcans:liquid_trash_can" }
+		{ item: "trashcans:ultimate_trash_can" }
+		{ count: 4, item: "create:analog_lever" }
+		{ count: 16, item: "minecraft:lever" }
+		{ count: 16, item: "minecraft:oak_button" }
+		{ count: 4, item: "minecraft:piston" }
+		{ count: 4, item: "minecraft:sticky_piston" }
+		{ count: 2, item: "minecraft:slime_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:slime_ball", weight: 4.0f }
+		{ item: "constructionwand:core_destruction" }
+		{ item: "constructionwand:core_angel" }
+		{ item: "botania:hourglass" }
+		{ item: "botania:cocoon" }
+		{ item: "botania:mana_bottle" }
+		{ item: "botania:mana_ring" }
+		{ item: "botania:mana_ring_greater" }
+		{ item: "botania:magnet_ring_greater" }
+		{ item: "botania:lens_speed" }
+		{ item: "botania:lens_power" }
+		{ count: 8, item: "botania:black_lotus" }
+		{ count: 8, item: "botania:blacker_lotus" }
+		{ count: 4, item: "botania:overgrowth_seed" }
+		{ count: 2, item: "botanypots:terracotta_botany_pot" }
+		{ item: "botania:obedience_stick" }
+		{ item: "mekanism:teleporter" }
+		{ count: 16, item: "create:shaft" }
+		{ count: 16, item: "create:encased_chain_drive" }
+		{ count: 8, item: "create:belt_connector" }
+		{ count: 16, item: "create:cogwheel" }
+		{ count: 16, item: "create:large_cogwheel" }
+		{ count: 16, item: "create:gearbox" }
+		{ count: 16, item: "create_connected:parallel_gearbox" }
+		{ count: 16, item: "create_connected:encased_chain_cogwheel" }
+		{ count: 16, item: "ae2:silicon" }
+		{ count: 16, item: "occultism:datura" }
+		{
+			type: "xp"
+			weight: 8.0f
+			xp: 500
+		}
+		{
+			type: "xp_levels"
+			weight: 16.0f
+			xp_levels: 1
+		}
+		{
+			item: {
+				Count: 1
+				id: "enderio:staff_of_travelling"
+				tag: {
+					Energy: {
+						EnergyStored: 0
+						MaxEnergyStored: 100000
+						MaxEnergyUse: 100000
+					}
+				}
+			}
+		}
+		{ count: 2, item: "enderio:travel_anchor" }
+		{
+			item: {
+				Count: 1
+				id: "minecraft:shield"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:netherite_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:netherite_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "extendedcrafting:nether_star_block" }
+		{
+			description: ""
+			icon: "minecraft:barrier"
+			title: "{quest.nothing}"
+			type: "toast"
+			weight: 10.0f
+		}
+		{ item: "mythicbotany:mana_collector" }
+		{ item: "mekanismgenerators:module_solar_recharging_unit" }
+		{ item: "mekaweapons:magnetizer" }
+		{
+			item: {
+				Count: 1
+				id: "botania:flight_tiara"
+				tag: {
+					variant: 0
+				}
+			}
+		}
+		{ count: 2, item: "megacells:greater_energy_card" }
+		{ count: 2, item: "ae2:energy_card" }
+		{
+			item: {
+				Count: 1
+				id: "ae2:energy_cell"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "ae2:dense_energy_cell"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "megacells:mega_energy_cell"
+				tag: { }
+			}
+		}
+		{ item: "expatternprovider:ex_molecular_assembler" }
+		{ item: "ae2:molecular_assembler" }
+		{ count: 8, item: "thermal:silver_ingot", weight: 4.0f }
+		{ count: 2, item: "thermal:silver_block", weight: 2.0f }
+		{ count: 2, item: "minecraft:coal_block", weight: 2.0f }
+		{ count: 8, item: "minecraft:coal", weight: 4.0f }
+		{ count: 8, item: "botania:livingrock" }
+		{ count: 8, item: "botania:livingwood_log" }
+		{ count: 8, item: "create:andesite_casing" }
+		{ count: 8, item: "create:brass_casing" }
+		{ count: 8, item: "create:brass_ingot", weight: 3.0f }
+		{ count: 2, item: "create:brass_block", weight: 2.0f }
+		{ count: 2, item: "thermal:bronze_block", weight: 2.0f }
+		{ count: 8, item: "thermal:bronze_ingot", weight: 3.0f }
+		{ count: 2, item: "thermal:invar_block", weight: 2.0f }
+		{ count: 8, item: "thermal:invar_ingot", weight: 3.0f }
+		{ count: 2, item: "thermal:electrum_block", weight: 2.0f }
+		{ count: 8, item: "thermal:electrum_ingot", weight: 3.0f }
+		{ count: 8, item: "botania:manasteel_ingot", weight: 2.0f }
+		{ count: 8, item: "botania:mana_pearl", weight: 2.0f }
+		{ count: 8, item: "botania:mana_diamond", weight: 2.0f }
+		{ count: 8, item: "botania:mana_glass_pane" }
+		{ count: 8, item: "botania:mana_glass" }
+		{ count: 8, item: "botania:mana_quartz" }
+		{ count: 8, item: "botania:mana_powder", weight: 2.0f }
+		{ count: 8, item: "botania:quartz_mana" }
+		{ count: 8, item: "botanicalmachinery:mana_emerald" }
+		{ count: 2, item: "botania:manasteel_block" }
+		{ count: 2, item: "botania:mana_diamond_block" }
+		{ count: 2, item: "botanicalmachinery:mana_emerald_block" }
+		{ item: "botanicalmachinery:mana_battery" }
+		{ item: "botania:mana_pool" }
+		{ count: 16, item: "minecraft:bone", weight: 6.0f }
+		{ count: 8, item: "minecraft:bone_block" }
+		{ count: 16, item: "minecraft:bone_meal" }
+		{ count: 16, item: "farmersdelight:rich_soil" }
+		{ count: 16, item: "farmersdelight:rich_soil_farmland" }
+		{ count: 16, item: "minecraft:wheat_seeds" }
+		{ count: 16, item: "minecraft:beetroot" }
+		{ count: 8, item: "minecraft:melon" }
+		{ count: 16, item: "minecraft:melon_slice" }
+		{ count: 8, item: "minecraft:pumpkin" }
+		{ count: 8, item: "minecraft:carved_pumpkin" }
+		{ count: 16, item: "minecraft:jack_o_lantern" }
+		{ count: 16, item: "minecraft:torch" }
+		{ item: "botania:dandelifeon" }
+		{ item: "createaddition:capacitor" }
+		{ item: "enderio:basic_capacitor" }
+		{ item: "enderio:double_layer_capacitor" }
+		{ item: "enderio:octadic_capacitor" }
+		{
+			item: {
+				Count: 1
+				id: "thermal:flux_capacitor"
+				tag: { }
+			}
+		}
+		{ item: "enderio:vibrant_capacitor_bank" }
+		{ item: "enderio:basic_capacitor_bank" }
+		{
+			item: {
+				Count: 1
+				id: "waystones:warp_stone"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "sophisticatedbackpacks:feeding_upgrade" }
+		{ item: "sophisticatedbackpacks:advanced_feeding_upgrade" }
+		{ count: 16, item: "minecraft:cooked_porkchop" }
+		{ count: 16, item: "minecraft:cooked_mutton" }
+		{ count: 16, item: "farmersdelight:mutton_wrap" }
+		{ count: 16, item: "delightful:cooked_goat" }
+		{ count: 16, item: "minecraft:cooked_chicken" }
+		{ count: 16, item: "farmersdelight:cooked_chicken_cuts" }
+		{ count: 16, item: "farmersdelight:chicken_sandwich" }
+		{ count: 32, item: "thermal:phytogro" }
+		{ item: "minecraft:furnace" }
+		{ item: "minecraft:campfire" }
+		{ item: "minecraft:soul_campfire" }
+		{ item: "create:cuckoo_clock" }
+		{ item: "create:clockwork_bearing" }
+		{ count: 2, item: "elevatorid:elevator_white" }
+		{ item: "create:elevator_pulley" }
+		{ count: 16, item: "farmersdelight:rope" }
+		{ item: "thermalendergy:energy_nullifier_augment" }
+		{ item: "thermalendergy:efficiency_nullifier_augment" }
+		{ item: "minecraft:blast_furnace" }
+		{ item: "minecraft:smoker" }
+		{ count: 2, item: "apotheosis:draconic_endshelf" }
+		{ count: 8, item: "occultism:sacrificial_bowl" }
+		{ count: 4, item: "createaddition:electric_motor" }
+		{ count: 8, item: "xnet:connector_blue" }
+		{ count: 8, item: "xnet:advanced_connector_blue" }
+		{ count: 2, item: "thermal:lead_block", weight: 2.0f }
+		{ count: 8, item: "thermal:lead_ingot", weight: 4.0f }
+		{ count: 32, item: "create:linear_chassis" }
+		{ item: "powah:thermo_generator_blazing" }
+		{ count: 16, item: "twilightforest:torchberries" }
+		{
+			type: "xp"
+			weight: 12.0f
+			xp: 200
+		}
+		{ count: 4, item: "draconicevolution:basic_relay_crystal" }
+		{ count: 4, item: "draconicevolution:draconic_relay_crystal" }
+		{ count: 4, item: "draconicevolution:wyvern_relay_crystal" }
+		{ count: 32, item: "minecraft:experience_bottle" }
+		{ item: "botania:sextant" }
+		{ item: "botania:starfield" }
+		{ count: 16, item: "advgenerators:iron_tubing" }
+		{ item: "mekanism:qio_drive_array" }
+		{ item: "darkutils:charm_sleep" }
+		{ count: 16, item: "thermal:stuffed_pepper" }
+		{ item: "mekanism:qio_drive_base" }
+		{ item: "mekanism:qio_drive_hyper_dense" }
+		{ item: "mekanism:qio_drive_time_dilating" }
+		{ item: "mekanism:qio_drive_supermassive" }
+		{ item: "mekanism:portable_qio_dashboard" }
+	]
+	title: "基础奖励"
+}

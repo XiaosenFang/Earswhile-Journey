@@ -1,0 +1,105 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "13B391B2D06DFDFE"
+	group: ""
+	id: "13B391B2D06DFDFE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["{quest.wel.wel.main}"]
+			id: "41FB044FB0C81799"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E330A74F1F54108"
+				table_id: 6361108773028810837L
+				team_reward: false
+				type: "choice"
+			}]
+			tasks: [{
+				id: "417CFC0D654C884A"
+				title: "欢迎"
+				type: "checkmark"
+			}]
+			title: "{quest.wel.wel.title}"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["41FB044FB0C81799"]
+			description: [
+				"{quest.wel.quest.main1}"
+				"{quest.wel.quest.main2}"
+			]
+			id: "5A39D6C669093772"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4684D73D8C59DBFB"
+				table_id: 6327709359404503933L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2DFA884BFDC10ABE"
+				title: "任务"
+				type: "checkmark"
+			}]
+			title: "{quest.wel.quest.title}"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["41FB044FB0C81799"]
+			description: ["{quest.wel.blueprint.main}"]
+			id: "082BEBD73F179822"
+			rewards: [
+				{
+					id: "09F348F7E2FE7C21"
+					item: "create:schematicannon"
+					type: "item"
+				}
+				{
+					id: "14E3CD890B000140"
+					item: "create:schematic_table"
+					type: "item"
+				}
+				{
+					id: "0177A678FD8B51CD"
+					item: "create:empty_schematic"
+					type: "item"
+				}
+				{
+					id: "7A72A4F7FFBC3792"
+					item: "create:clipboard"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5A1424CB34F0A1E3"
+				title: "{quest.wel.blueprint.title}"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["41FB044FB0C81799"]
+			description: ["{quest.wel.writer.main}"]
+			id: "420D5781F7492F70"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67E7122A6B92CC62"
+				table_id: 2691043537258316433L
+				type: "random"
+			}]
+			tasks: [{
+				id: "022AFC570CF931C7"
+				title: "{quest.wel.writer.title}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+	]
+	title: "{quest.main.welcome}"
+}
